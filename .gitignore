@@ -1,5 +1,63 @@
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,exercism
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,exercism
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,exercism,c
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,exercism,c
+
+### C ###
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Clangd
+.cache
+compile_commands.json
 
 ### Exercism ###
 # gitignore template for Exercism project
@@ -27,4 +85,4 @@
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,exercism
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,exercism,c
