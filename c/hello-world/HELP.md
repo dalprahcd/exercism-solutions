@@ -65,8 +65,6 @@ you can see how others have completed the exercise.
 
 To get help if having trouble, you can use the following resources:
 
-- [StackOverflow][] can be used to search for your problem and see if it has been answered already.
-  You can also ask and answer questions.
 - [CPPReference][] can be used to look up information on C concepts, operators, types, standard
   library functions and more.
 - [TutorialsPoint][] has similar content as CPPReference in its C programming section.
@@ -74,7 +72,6 @@ To get help if having trouble, you can use the following resources:
   today.
 
 [c-track]: https://exercism.org/docs/tracks/c
-[stackoverflow]: http://stackoverflow.com/questions/tagged/c
 [cppreference]: https://en.cppreference.com/w/c
 [tutorialspoint]: https://www.tutorialspoint.com/cprogramming/
 [K&R]: https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/
